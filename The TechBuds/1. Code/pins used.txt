@@ -1,0 +1,38 @@
+node mcu pins used in project
+	Moisture sensor pins
+
+		vin for vcc
+		gnd
+		AO
+		
+	dht11 sensor pins
+		3v3
+		gnd
+		D4 - data
+		
+	BMP180 sensor pins
+		D6 - SCL
+		D7 - SDA
+		3v3   
+		gnd
+		
+	Uart communication
+		D5 - 8
+		D8 - 7
+	Servo motor
+		dark - gnd
+		red to vcc
+		d2-pin
+		
+arduino pins used
+
+	uLTRASONIC SENSOR
+		VCC5V
+		GND
+		3 - TRIG
+		2 - ECHO
+		aaj
+	Servo motor
+		dark - gnd
+		red to vcc
+		9 - pin
